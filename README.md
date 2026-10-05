@@ -32,6 +32,14 @@ El desarrollo abarca los siguientes componentes clave:
 
 ---
 
+## Imágenes
+<img width="400" height="200" alt="image" src="https://github.com/user-attachments/assets/bb59f114-0a46-4954-bc63-e3e81f1f8707" />
+<img width="400" height="200" alt="image" src="https://github.com/user-attachments/assets/477e7f26-7ea4-4904-ac09-49e16da7eeb3" />
+<img width="400" height="200" alt="image" src="https://github.com/user-attachments/assets/233a3205-77f8-4f08-bf18-728dc74eab96" />
+
+
+
+
 ## Instrucciones de Ejecución
 
 1. Abrir la solución **`ProyectoDesa3.sln`** en **Microsoft Visual Studio**.
