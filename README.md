@@ -1,4 +1,4 @@
-# 04. Procesamiento Simultáneo (Concurrente) y Conexión a Bases de Datos
+# Procesamiento Simultáneo (Concurrente) y Conexión a Bases de Datos
 
 ## Especificaciones Técnicas
 * **Lenguaje de programación:** C# (.NET / .NET Framework)
