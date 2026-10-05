@@ -1,5 +1,12 @@
 # Procesamiento Simultáneo (Concurrente) y Conexión a Bases de Datos
 
+## Creadores
+* López Corella David Antonio
+* Marquez Martinez Perla Jazmin
+* Miranda Montes Brandon Isaac
+* Sandoval López Daniela
+* Wu Zhang Fei Fei 
+
 ## Especificaciones Técnicas
 * **Lenguaje de programación:** C# (.NET / .NET Framework)
 * **Entorno de Desarrollo (IDE):** Microsoft Visual Studio (`ProyectoDesa3.sln`)
