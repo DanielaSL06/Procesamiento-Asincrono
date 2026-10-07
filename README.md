@@ -32,13 +32,19 @@ El desarrollo abarca los siguientes componentes clave:
 
 ---
 
+
 ## Imágenes
-<img width="400" height="200" alt="image" src="https://github.com/user-attachments/assets/bb59f114-0a46-4954-bc63-e3e81f1f8707" />
-<img width="400" height="200" alt="image" src="https://github.com/user-attachments/assets/477e7f26-7ea4-4904-ac09-49e16da7eeb3" />
-<img width="400" height="200" alt="image" src="https://github.com/user-attachments/assets/233a3205-77f8-4f08-bf18-728dc74eab96" />
 
+**Guardado asíncrono en SQL Server (`async/await` + ADO.NET con transacciones)**
+<img src="images/01-codigo-async-sql.png" width="720" alt="Código asíncrono con SQL Server" />
 
+**Escaneo de interfaces de red**
+<img src="images/02-codigo-escaneo.png" width="720" alt="Escaneo de interfaces de red" />
 
+**Carga asíncrona del historial en la interfaz**
+<img src="images/03-codigo-historial.png" width="720" alt="Carga asíncrona del historial" />
+
+---
 
 ## Instrucciones de Ejecución
 
